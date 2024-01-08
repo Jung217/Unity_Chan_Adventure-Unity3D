@@ -53,6 +53,42 @@
     * Unity Chan 攻擊用上課的
     * 村莊的小物件幾乎可動
     * 小怪會自動巡邏並偵測攻擊，血量歸零會出現死掉動畫
+### 範圍偵測
+> 新增一球體(或其他)，調整到飽含偵測的範圍，將`MeshRenderer.SetActuve(false)`，`Collider`的`Is Trigger`打勾
+> 
+> 新增script，加上`onTriggerEnter`、`onTriggerExit`(、`onTriggerstay`，非必要，複雜判斷用)
+```
+public class littelbear_det : MonoBehaviour
+{
+    static public bool p_det = false;
+    static public bool det_sth = false;
+
+    void Update()
+    {
+        
+    }
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "iceball") Physics.IgnoreCollision(other.GetComponent<Collider>(), GetComponent<Collider>());
+        det_sth = true;
+        if (other.tag == "player") p_det = true;
+    }
+    public void OnTriggerStay(Collider other)
+    {
+        if (other.tag == "iceball") Physics.IgnoreCollision(other.GetComponent<Collider>(), GetComponent<Collider>());
+        det_sth = true;
+        if (other.tag == "player") p_det = true;
+    }
+    public void OnTriggerExit(Collider other)
+    {
+        det_sth = false;
+        p_det = false;
+    }
+}
+```
+
+### 場景中的可動小物件
+> `Mesh Collider`的`Convex`打勾，加上`RigiBody`，可自行調整`Mass`，調整效果
 
 ## P.S. / 備註
 > The scene is meticulously crafted, with each element, including flowers, trees, rocks, houses, and characters, individually placed rather than relying on a pre-made terrain.
