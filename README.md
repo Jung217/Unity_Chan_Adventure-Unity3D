@@ -59,6 +59,12 @@
 > 
 > 場景除了地面的terrain，其他花草樹木、石頭、房子、人物，都是一個一個拉出來擺的
 
+## Asset / 資源
+* [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)
+* [Gigle-RPG Poly Pack - Lite](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410)
+* [Blink-FREE - Modular Character - Fantasy RPG Human Male](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/free-modular-character-fantasy-rpg-human-male-228952)
+* [Blink-FREE Stylized Bear - RPG Forest Animal](https://assetstore.unity.com/packages/3d/characters/animals/free-stylized-bear-rpg-forest-animal-228910)
+
 ## Reference Materials / 參考資料 
 
 * [Unity AI install problem](https://forum.unity.com/threads/experimental-ai-navigation-package.1126961/)
