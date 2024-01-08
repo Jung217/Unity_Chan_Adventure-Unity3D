@@ -1,12 +1,13 @@
 # Unity Chan's Adventure
-> Unity Chan's Adventure, a 3D game made with Unity.
+> Unity Chan's Adventure, a 3D game made with Unity by Jung.
 > 2024.01.08
 
 > English contents translted by ChatGPT.
 
 ## Story / 故事
->In a distant forest filled with various animals coexisting peacefully, a sudden disruption occurred when a ferocious bear appeared, shattering the tranquility. Unity Chan witnessed her fellow companions getting injured and decided to step forward, defending this harmonious home. 
-在一個遙遠的森林裡，充滿了各種動物，它們和平共處，但有一天，凶猛的熊突然出現，打破了這片寧靜。Unity Chan看到其他同伴受傷，她決定挺身而出，保護這片和諧的家園。
+>In a distant forest filled with various animals coexisting peacefully, a sudden disruption occurred when a ferocious bear appeared, shattering the tranquility. Unity Chan witnessed her fellow companions getting injured and decided to step forward, defending this harmonious home.
+>
+> 在一個遙遠的森林裡，充滿了各種動物，它們和平共處，但有一天，凶猛的熊突然出現，打破了這片寧靜。Unity Chan看到其他同伴受傷，她決定挺身而出，保護這片和諧的家園。
 
 ## Controls / 控制
 * EN :
@@ -22,6 +23,7 @@
 
 ## Mission / 任務
 > Eliminate all bears and unlock achievements.
+> 
 > 把熊殺光，並解鎖成就
 
 ## Achievements & Conditions / 成就 & 條件
@@ -54,6 +56,7 @@
 
 ## P.S. / 備註
 > The scene is meticulously crafted, with each element, including flowers, trees, rocks, houses, and characters, individually placed rather than relying on a pre-made terrain.
+> 
 > 場景除了地面的terrain，其他花草樹木、石頭、房子、人物，都是一個一個拉出來擺的
 
 ## Reference Materials / 參考資料 
