@@ -28,18 +28,17 @@
 
 ## Achievements & Conditions / 成就 & 條件
 * EN :
-    * 半醉的護花使者 : 把 U chan 推進花圃(補血到1000)
-    * 隱藏者 : 找出 Easter egg U Chan (面相森林最右側房子(從掃把的角落卡進去))(補甲到1000)
-    * 毀滅者 : 在村莊範圍發射15發魔法球
-    * 毀滅者的天堂 : 在村莊後面的空地範圍發射15發魔法球
-    * 勇者 : 殺掉最大隻的熊
-* CN :
     * The Drowsy Chaperone : Push U Chan into the flower bed (restore HP to 1000).
     * The Hidden one : Discover the Easter egg U Chan (located in the rightmost house in the facial expression forest, accessed by getting stuck in the corner near the broom) (restore Armor to 1000).
     * Destroyer : Launch 15 magic balls within the village area.
     * Destroyer's Paradise : Launch 15 magic balls in the open space behind the village.
     * The Brave : Defeat the largest bear.
-
+* CN :
+    * 半醉的護花使者 : 把 U chan 推進花圃(補血到1000)
+    * 隱藏者 : 找出 Easter egg U Chan (面相森林最右側房子(從掃把的角落卡進去))(補甲到1000)
+    * 毀滅者 : 在村莊範圍發射15發魔法球
+    * 毀滅者的天堂 : 在村莊後面的空地範圍發射15發魔法球
+    * 勇者 : 殺掉最大隻的熊
 ## Skills / 技巧
 * EN :
     * NPC Dialogue Box
